@@ -1,0 +1,55 @@
+body{
+    font-family: "Roboto",sans-serif;
+}
+header{
+    background-image: linear-gradient(180deg, #c4b6fd, #93acfc);
+}
+.navbar-brand {
+    font-size: 30px;
+   }
+.text-primary,
+.navbar-brand{
+    color: #0a58ca;
+}
+.nav-link{
+    font-weight: 500;
+}
+.btn-primary {
+    background-color: #0a58ca !important;
+    border: none;
+  }
+  .nav-link:hover {
+    color: #0a58ca;
+  }
+  
+  p {
+    font-size: 18px;
+  }
+  .btn-primary:hover {
+    background-color: #257dfd !important;
+  }
+  
+  .blue-bg {
+    background-color: #0a58ca;
+    color: #fff;
+  }
+  .icons{
+    color: #0a58ca;
+    background-color: #f2f2f2;
+    padding: 10px;
+    height: 30px;
+    width: 30px;
+    margin-bottom: 12px;
+    border-radius: 2px;
+  }
+  .nav-tabs .nav-item.show .nav-link,
+  .nav-tabs .nav-link.active{
+    border: none;
+    background-color: #0a58ca;
+    color: white;
+  }
+  .shopbtn{
+    border-radius: 3px;
+  }
+    
+  
